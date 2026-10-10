@@ -1,15 +1,12 @@
-# Themes and narrative direction
+# Themes and narrative tensions
 
-**Status: Established broad intent.**
+**Status:** Interpretive summary of recurring author-established story elements, not a mandatory thesis.
 
-- First contact and the promise of cooperation.
-- Human expansion, prejudice, fear of outsiders and imperial overreach.
-- Suspicion and the unintended consequences of violating boundaries.
-- Moral responsibility: humanity often causes the central catastrophe.
-- Cooperation under existential pressure and the slow, messy integration of human and alien societies.
-- Improvement is not a utopia: reactionaries, separatists and fundamentalists remain.
-- A long, multi-generational scale rather than a single neat adventure.
+- Humanity's xenophobia, arrogance and expansionism undermine a genuine chance at cooperation.
+- The aliens' warnings are accurate but sound impossible to people lacking the right concepts.
+- An ancient dictator's reckless automation and a later human government's reckless incursion echo one another.
+- Cooperation between former rivals makes survival possible.
+- Military secrecy and fear can turn a perceived preventive action into the catastrophe it claims to prevent.
+- The final hero's sacrifice raises an unresolved dilemma: when a dangerous system cannot be shut down, what does it mean to give one person permanent control?
 
-**Open:** Specific points of view, how each generation changes the central conflict, and the ultimate thematic ending.
-
-_Source: author discussions, 2024-01-31, 2025-05-13, 2025-09-14, 2026-10-09; paraphrased._
+**Proposed interpretation, not canon:** The final director could repeat the original dictator's concentration of power, even if his intentions are better. The author has wondered whether he becomes corrupted; no answer is established.
