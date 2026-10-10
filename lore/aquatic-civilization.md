@@ -1,21 +1,18 @@
 # Aquatic first-contact civilization
 
-**Status: Established direction; species and cultural specifics still evolving.**
+**Status:** Established core; many biological/cultural details remain open.
 
-- Highly intelligent aquatic beings, inspired by octopuses/squid but **not simply Earth octopuses**.
-- Their homeworld is mostly ocean with scattered small islands.
-- Their bodies are dexterous and multi-armed; they can alter their appearance to approximate a humanoid silhouette.
-- They are not naturally pack-oriented; their history includes competing or warring tribes. Cooperation is a learned social achievement, informing their friendly outreach to Earth.
-- Communication includes clicking/digital-like signals, light/bioluminescence and chemical/pheromone signals.
-- They are carnivorous.
-- Their inhabited ships suspend volumes of water using gravity manipulation. These contain living, bioluminescent ecosystems and serve as habitat and protection.
-- Their settlements/cities may be drifting and loosely coupled.
-- They value trade and knowledge exchange.
+- Intelligent aquatic aliens with squid/octopus-like anatomy, not simply terrestrial cephalopods.
+- Oceanic homeworld; their population is smaller than humanity's, and individual aliens are physically more fragile.
+- Generally more intellectually capable than humans. Their many limbs and unusual neurology let them operate multiple devices or spacecraft systems simultaneously.
+- Historically fiercely solitary or tribal, with technologically sophisticated wars among their own factions. Many earlier war machines were manually piloted.
+- Near-extinction at the hands of their own automated war machines forced them to learn large-scale cooperation and develop powerful defensive and offensive technologies.
+- They approach Earth peacefully and enter a mutually lucrative technological/trade relationship.
+- Their warnings about the forbidden region were **clear, sincere and as technically accurate as they could make them**. They were not deliberately cryptic or speaking in riddles. Humans lacked the conceptual frame to believe or understand them, like describing a nuclear weapon to a caveman.
+- As humanity becomes suspicious and xenophobic, “squid” becomes a derogatory term.
+- When the machines return, the aliens shield and isolate their homeworld, though some dissidents go to humanity's aid.
 
-**Physical and tactical constraints:** The water envelope depends on gravity control; disruption can compromise the shield/habitat. Its mass and sustained energy-weapon exposure create vulnerabilities.
+## Open
+Species and homeworld names, detailed physiology and society, how humans learn the aliens' history, and the political dispute between isolationists and dissidents.
 
-**Visual direction:** Alien, deep-sea, organic, gritty and lived-in; murky water and diverse life, not clean or cartoonish.
-
-**Open:** Species name, physiology limits, reproduction, languages, government, and how the loosely coupled cities function.
-
-_Source: author discussions, 2025-05-13, 2025-09-14, 2026-10-09; paraphrased._
+_Source: paraphrased from author discussion; initial import pending review._
