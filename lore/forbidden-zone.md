@@ -1,21 +1,25 @@
-# Forbidden region and ancient machines
+# Forbidden region and the Dark Place
 
-**Status: Established premise; mechanism and history open.**
+**Status:** Established story elements; mechanics unresolved.
 
-## The prohibition
-The first-contact aliens require humanity to stay out of a forbidden area of space. As humans travel farther, encounters with alien security guarding the boundary intensify suspicion. Humanity eventually enters secretly despite the warning.
+The aquatic civilization's earlier tribal conflicts led to the creation of autonomous war machines. A dictator ordered a demonstration of automated targeting before friend-or-foe recognition was complete. Machines treated other machines as allies but did not distinguish organic allies from enemies. The dictator's retreat led the machines back to his civilization, creating a near-extinction crisis.
 
-## The machine threat
-- The intrusion unleashes an ancient combat-machine factory or manufacturing system.
-- The resulting autonomous robotic threat almost destroys humans and the aquatic aliens.
-- Visual direction for the machines: hard-shelled inorganic mineral/metal construction with crab/lobster-like forms.
-- Many machines behave as relatively unintelligent autonomous drones, using sensors such as radar, movement and sound detection, lights and beeps. Stealth can matter.
+The aquatic civilization united, developed advanced defenses and bombarded the factory planet. They believed the threat ended, but a protected underground factory survived.
 
-## Still unresolved
-- Who built the factory and why?
-- Why is the region forbidden, and what do the aliens actually know?
-- What precisely triggers the machines?
-- How do the machines reproduce, organize, target, and spread?
-- How do the two civilizations survive and ultimately respond?
+The aliens clearly warned humans not to enter the region. Generations later, a secret human expedition entered anyway and unintentionally reactivated the factory.
 
-_Source: author discussions, 2024-01-31, 2025-05-14, 2026-10-09; paraphrased._
+## Planet and entrance
+
+The factory planet is tidally locked, with extreme permanent day and night regions. A tidally locked moon is intended to cast a fixed shadow called **the Dark Place**. Solar collectors supply power. An entrance in the shadow provides a relatively safe route into the underground factory.
+
+**Open physics question:** How the orbital configuration supports a permanently fixed moon shadow remains to be worked out.
+
+## Later events
+
+The aliens shield their homeworld, while dissidents aid humanity. Earth suffers catastrophic destruction, with survivors in offworld mining colonies. Machines continue patrolling for activity. Eventually a joint expedition enters the Dark Place on foot.
+
+The factory cannot be shut down, only directed. A recurring hero with alien cybernetic implants interfaces with it and becomes its permanent director.
+
+**Open:** The director's eventual character, factory controls, the human general's motivations and portal escape, and exact orbital physics.
+
+_Source: paraphrased from author discussion; pending review._
