@@ -1,21 +1,16 @@
 # Open questions and verification queue
 
-These are **not** settled canon.
+These are not settled canon.
 
-## Highest priority
-1. What are the names of the aquatic species, homeworld, forbidden region and machines?
-2. What is the chronology of first contact, expansion, intrusion, war and aftermath?
-3. What do the aliens know about the forbidden region, and why do they enforce the boundary?
-4. What actually activates the factory, and what are its objectives?
-5. Who are the protagonists or viewpoint characters across generations?
-6. What form does the ending or long-term human–alien relationship take?
+1. What are the proper names for the aquatic species, homeworld, forbidden region, factory planet, machines, factions and protagonists?
+2. What do humans know about the aliens' tribal wars and near-extinction before the forbidden-zone incursion?
+3. How does the tidally locked planet/moon arrangement sustain the fixed shadow of the Dark Place?
+4. How is the factory accidentally reactivated, and why can it only be directed rather than shut down?
+5. What does the human general believe he is accomplishing? How does his portal escape work?
+6. Who is the cybernetically augmented recurring hero? What happened in the earlier story that led to his implants?
+7. Does the new factory director remain benevolent, or does the role corrupt him?
+8. What are the individual story/game arcs and their chronology?
+9. How do offworld human survivors, alien dissidents and the shielded alien homeworld interact during the machine war?
 
-## Worldbuilding
-- How do gravity-held water ships travel, fight and survive failure?
-- How do drifting cities and alien social structures work?
-- What are the constraints on FTL, gravity, camouflage and neural interfaces?
-- How do the robots detect, adapt, manufacture and coordinate?
-
-## Review of imported notes
-- Verify whether every item marked Established in the initial world bible reflects the author's intended canon.
-- Some technical/gameplay discussions may have been exploratory rather than binding story lore; flag discrepancies for correction.
+## Import review
+The initial world bible is a paraphrase. Verify facts and nuances with the author; do not fill in missing details as if they were remembered.
